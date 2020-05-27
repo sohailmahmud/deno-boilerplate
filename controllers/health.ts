@@ -1,4 +1,3 @@
-
 import { Routes } from '../config/routes.ts'
 import { HealthService } from '../service/implementation/health.ts';
 
